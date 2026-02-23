@@ -1,0 +1,16 @@
+# Build outputs
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog/
+*.vcxproj.user
+.vs/
+x64/
+
+# OS
+.DS_Store
+Thumbs.db

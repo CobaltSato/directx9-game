@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="audio.cpp" />
+    <ClCompile Include="console.cpp" />
+    <ClCompile Include="dashboard.cpp" />
+    <ClCompile Include="entity.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="graphics.cpp" />
+    <ClCompile Include="inputDialog.cpp" />
+    <ClCompile Include="koishi.cpp" />
+    <ClCompile Include="messageDialog.cpp" />
+    <ClCompile Include="net.cpp" />
+    <ClCompile Include="castOperations.cpp" />
+    <ClCompile Include="satori.cpp" />
+    <ClCompile Include="textureManager.cpp" />
+    <ClCompile Include="input.cpp" />
+    <ClCompile Include="caster.cpp" />
+    <ClCompile Include="image.cpp" />
+    <ClCompile Include="textDX.cpp" />
+    <ClCompile Include="winmain.cpp" />
+    <ClCompile Include="moon.cpp" />
+    <ClCompile Include="conversation.cpp" />
+    <ClCompile Include="bugball.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="audio.h" />
+    <ClInclude Include="console.h" />
+    <ClInclude Include="constants.h" />
+    <ClInclude Include="dashboard.h" />
+    <ClInclude Include="entity.h" />
+    <ClInclude Include="FileHandle.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="gameError.h" />
+    <ClInclude Include="graphics.h" />
+    <ClInclude Include="inputDialog.h" />
+    <ClInclude Include="koishi.h" />
+    <ClInclude Include="messageDialog.h" />
+    <ClInclude Include="net.h" />
+    <ClInclude Include="castOperations.h" />
+    <ClInclude Include="satori.h" />
+    <ClInclude Include="textureManager.h" />
+    <ClInclude Include="input.h" />
+    <ClInclude Include="caster.h" />
+    <ClInclude Include="image.h" />
+    <ClInclude Include="textDX.h" />
+    <ClInclude Include="moon.h" />
+    <ClInclude Include="conversation.h" />
+    <ClInclude Include="bugball.h" />
+  </ItemGroup>
+</Project>

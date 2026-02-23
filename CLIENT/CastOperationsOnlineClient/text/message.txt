@@ -1,0 +1,15 @@
+satori
+NORMAL_ANGRY
+やめなさいこいし
+帰りましょう
+もう遅いですよ
+koishi
+NORMAL_SMILE
+やだやだやだ
+帰らないもん
+もっと遊ぼうよ
+satori
+MORE_DISCONTENTED
+………
+仕方ないですね、、、
+これが最後ですよ
